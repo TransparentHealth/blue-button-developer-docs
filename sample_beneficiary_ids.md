@@ -9,7 +9,6 @@ Take the following steps to create a beneficiary account:
 4. Paste this number, together with an email address that can receive an invitation
 5. Click on the invitation link and complete the beneficiary account creation process.
 
-
 | id | first_name | last_name | email | username | code |
 | BENE_CRNT_HIC_NUM | BENE_GVN_NAME | BENE_SRNM_NAME | email | username |
 |---|---|---|---|---|
@@ -513,9 +512,6 @@ Take the following steps to create a beneficiary account:
 | 371661840C | Kcxj | Klmlcu | replace_with_email | kcxj_klmlcu3538 |
 | 824119608L | Mzuk | Thmffp | replace_with_email | mzuk_thmffp9908 |
 | 276331391Q | Xxni | Qjpbog | replace_with_email | xxni_qjpbog8651 |
-
-
-
 
 
 
